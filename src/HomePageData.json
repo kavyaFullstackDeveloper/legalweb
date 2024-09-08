@@ -1,148 +1,131 @@
 {
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
-    "subTitle": "Hello, I’m",
-    "designation": "Visual Designer"
+    "imgLink": "/images/hero-bg3.jpg",
+    "title": "Legal <br /> Solutions",
+    "subTitle": "Find your perfect legal care",
+    "designation": "Legal Services here"
   },
   "aboutData": {
-    "imgLink": "/images/section/about.jpg",
-    "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
-    "details": [
-      {
-        "title": "Birthday",
-        "info": "May 07, 1990"
-      },
-      {
-        "title": "Phone",
-        "info": "+1 876-369-9009"
-      },
-      {
-        "title": "Email",
-        "info": "devis@example.com"
-      },
-      {
-        "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
-      },
-      {
-        "title": "Language",
-        "info": "English, Germanic"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
-      }
-    ]
-  },
-  "serviceData": {
-    "services": [
-      {
-        "imgLink": "/images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "700"
-      }
-    ]
-  },
-  "skillData": {
-    "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
-    "skills": [
-      {
-        "title": "Photoshop",
-        "progress": "95%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "title": "Motion Graphic",
-        "progress": "75%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "title": "Adobe XD",
-        "progress": "90%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "title": "UX Design",
-        "progress": "85%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "title": "HTML",
-        "progress": "80%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "title": "Digital Marketing",
-        "progress": "90%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      }
-    ]
-  },
+  "imgLink": "/images/section/IndianFlag.jpg",
+  "cvPdf": "/images/EdwardDavisCV.pdf",
+  "title": "Hi There! we are dedicated lawers",
+  "subtitle": "Attorney at Law",
+  "text": "I am a highly experienced attorney specializing in corporate law, contract law, and legal consultancy. My goal is to provide tailored legal solutions to individuals and businesses, ensuring compliance and protecting their rights.",
+  "details": [
+    {
+      "title": "Foundation",
+      "info": " 1980"
+    },
+    {
+      "title": "Phone",
+      "info": "+1 800-123-4567"
+    },
+    {
+      "title": "Email",
+      "info": "lawers.law@example.com"
+    },
+    {
+      "title": "From",
+      "info": "1234 Law Street, Legal City, LC 54321"
+    },
+    {
+      "title": "Language",
+      "info": "English, Spanish"
+    },
+    {
+      "title": "Availability",
+      "info": "Available for Consultation"
+    }
+  ]
+},
+"serviceData": {
+  "services": [
+    {
+      "imgLink": "/images/icon/legal-advice.png",
+      "title": "Legal Consultancy",
+      "text": "Providing expert advice on legal matters ranging from contracts to corporate policies.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "imgLink": "/images/icon/litigation.png",
+      "title": "Litigation",
+      "text": "Representing clients in legal disputes with a focus on achieving favorable outcomes.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "imgLink": "/images/icon/contracts.png",
+      "title": "Contract Drafting",
+      "text": "Drafting and reviewing legal contracts to ensure compliance and protect your interests.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "/images/icon/immigration.png",
+      "title": "Immigration Law",
+      "text": "Offering expert guidance on immigration processes and applications.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "imgLink": "/images/icon/intellectual-property.png",
+      "title": "Intellectual Property",
+      "text": "Protecting your intellectual property rights through expert legal services.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "imgLink": "/images/icon/tax-law.png",
+      "title": "Tax Law",
+      "text": "Ensuring compliance with tax laws and offering strategies for tax optimization.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
+},
+"skillData": {
+  "title": "Our Team",
+  "text": "As a dedicated lawyer, I offer a diverse range of legal expertise.",
+  "skills": [
+    {
+      "title": "",
+      "progress": "",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "title": "Immigration Law",
+      "progress": "",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "title": "Tax Law",
+      "progress": "",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "title": "Intellectual Property",
+      "progress": "",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
+}
+,
   "portfolioData": {
     "portfolioItems": [
       {
@@ -510,27 +493,39 @@
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ],
-    "educationTitle": "Education",
-    "education": [
-      {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      }
-    ]
+   "educationTitle": "Professional Achievements",
+"education": [
+  {
+    "title": "Bar Admission",
+    "duration": "2015",
+    "subTitle": "State Bar of California",
+    "text": "Successfully passed the California Bar Exam and was admitted to practice law in the state of California."
+  },
+  {
+    "title": "Legal Consultant of the Year",
+    "duration": "2020",
+    "subTitle": "Legal Excellence Awards",
+    "text": "Recognized for outstanding performance in providing legal consulting services in corporate law and compliance."
+  },
+  {
+    "title": "Top 40 Under 40",
+    "duration": "2018",
+    "subTitle": "National Trial Lawyers Association",
+    "text": "Honored as one of the top 40 attorneys under 40 for excellence in litigation and dispute resolution."
+  },
+  {
+    "title": "Certified Mediator",
+    "duration": "2017",
+    "subTitle": "International Mediation Institute",
+    "text": "Completed certification in mediation, focusing on dispute resolution and arbitration for corporate clients."
+  },
+  {
+    "title": "Published Author",
+    "duration": "2021",
+    "subTitle": "Journal of Corporate Law",
+    "text": "Published an article on corporate governance and legal compliance in emerging markets."
+  }
+]
   },
   "contactData": {
     "formTitle": "Just say Hello",
